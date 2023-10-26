@@ -88,7 +88,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone git@github.com:alwinantony29/full-stack-task.git
+  https://github.com/Mo-him/fullstack-task-vidyalai
 ```
 
 Go to the client directory
